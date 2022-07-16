@@ -1,0 +1,516 @@
+
+h2{
+    text-align: center;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-repeat: no-repeat;
+    
+}
+
+.tm{
+background-size: 100%;
+position: relative;
+width: 1378px;
+height:600px;
+background-attachment: fixed;
+opacity: 0.9;
+margin: 0px;
+margin-right: 0%;
+top: -10px;
+left: -20px;
+
+}
+
+.text{
+    position: absolute;
+    top: 30px;
+    left: 14%;
+    color: rgb(250, 250, 250);
+    text-align: center;
+    
+}
+
+.india{
+    color: rgb(34, 32, 32);
+}
+
+.sub{
+    position: absolute;
+    top: 130px;
+    left: 14.2%;
+    color: rgb(250, 250, 250);
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 0.7px;
+    }
+
+.mw{
+    text-align: center;
+    background-color: #c5bdbd60;
+    position: relative;
+    margin-top: 0pt;
+    left: -10px;
+    top: -32px;
+    margin-right: 0px;
+    width: 1358px;
+    
+}
+
+.monuments{
+    height: 250px;
+    width: 360px;
+    margin: 20px;
+    
+    text-align: center;
+    box-shadow: 2px 1px 3px 1px #808080;
+}
+
+.heading{
+    font-size: 60px;
+    font-family:'Times New Roman', Times, serif;
+    letter-spacing:2px;
+    font-weight: 100;
+    text-align: center;
+    
+}
+
+.p1{
+    
+    font-size:40px; 
+    margin-top: 5px;
+    color: rgb(226, 161, 21);
+    font-weight: 100px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+footer{
+    background-color: rgb(87, 42, 42);
+    height: 210px;
+    position: relative;
+    top: 10px;
+    left: -20px;
+    width: 1378px;
+    color: antiquewhite;
+    text-align: center;
+}
+
+.last{
+    color: aliceblue;
+    height: 10px;
+    width: 1378px;
+    margin-left: 0px;
+    margin-top: 0px;
+    
+}
+
+.last ul{
+    overflow: auto;
+}
+
+.last li{
+    float:left;
+    list-style: none; 
+    position: relative;
+    left: 50px;
+    top: -25px;
+    margin-left: -60px;
+    margin-right: 210px;
+    margin-top: 20px;
+    font-size: 20px;
+    padding-top: 0px;
+}
+
+.last li a:hover{
+    color: rgb(255, 254, 254);
+}
+
+.foot {
+    color: rgb(230, 209, 25);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 100px;
+}
+
+.foot:link{
+    text-decoration: none;
+}
+
+.logo{
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    top: 30px;
+    left: -20px;
+}
+
+.navbar{
+    background-color: rgb(236, 226, 226);
+    height: 60px;
+    width: 1378px;
+    margin-left: -20px;
+    margin-top: -17px;
+}
+
+.navbar li{
+    float:left;
+    list-style: none; 
+    margin: 10px 10px;
+    font-size: 20px;
+    padding-top: 2px;
+}
+
+.navbar ul{
+    overflow: auto;
+}
+
+.search{
+    float: right;
+    color: rgb(10, 10, 10);
+    padding: 11px 70px;
+}
+
+.navbar input{
+    border: 2px solid black;
+    border-radius: 14px;
+    padding: 3px 17px;
+    width: 129px;
+}
+
+.navbar li a:hover{
+    color: rgb(204, 41, 41);
+}
+
+.navbar li a:link{
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a{
+    color: black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 10px;
+}
+
+.more{
+    height: 380px;
+    width: 100%;
+    }
+
+.kids{
+    height: 400px;
+    width: 460px;
+    position: relative;
+    left: 58%;
+    top: -400px;
+    background-color: #212122;
+}
+
+.mai{
+    width:1000px;
+    position: relative;
+    text-align: left;
+    left: 70px;
+    font-weight: 100;
+    color: #eb8526d5;
+    font-size: 70px;
+}
+
+.p3{
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    left: -322px;
+    top: -40px;
+    font-weight: 30;
+}
+
+.btn{
+    background-color: #2186c0d5;
+    color:rgb(245, 239, 239);
+    position: relative;
+    height: 40px;
+    width: 140px;
+    border: none;
+    font-size: 24px;
+    text-align: center;
+    border-radius: 5px;
+    left: 255px;
+    top: -40px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.facts :hover{
+    color: black;
+}
+
+.ch{
+    color: rgba(150, 25, 25, 0.973);
+    font-size: 50px;
+    position: relative;
+    top: -10px;
+    text-align: center;
+   
+}
+
+.cap{
+    text-align: justify;
+    font-size: 22px;
+    line-height: 50px;
+    margin-left: 100px;
+    margin-top:-30px;
+    position: relative;
+    left: -50px;
+    background-color: rgb(243, 224, 224);
+    padding-left: 10px;
+    
+}
+
+.vt{
+    text-align: left;
+    font-size: 60px;
+    margin-left: 50px;
+    margin-top: -60px;
+    color: #1A4D2E;
+    width: 400px;
+    
+}
+
+.vp{
+    text-align: left;
+    position:relative;
+    left: 50px;
+    top: -25px;
+    font-size: 25px;
+    
+    width: 540px;
+}
+
+.l1{
+    width: 500px;
+    position: relative;
+    left: -365px;
+}
+
+.finger{
+    position: relative;
+    left: 43%;
+    top: 120px;
+    height: 90px;
+}
+
+.video{
+    position: relative;
+    left: 55%;
+    top: -340px;
+    
+}
+
+.dyk{
+    text-align: center;
+    position: relative;
+    top: -250px;
+    left: -380px;
+    color: goldenrod;
+    font-size: 50px;
+    
+}
+
+.na{
+    font-size: 20px;
+    position: relative;
+    top: -260px;
+    left: 40px;
+    width: 550px;
+    text-align: left;
+
+}
+
+.tna{
+    text-align: center;
+    font-size: 50px;
+    position:relative;
+    top: -895px;
+    left: 700px;
+    color: #bd387a;
+    
+    width: 580px;
+}
+
+.lyrics{
+    text-align: center;
+    font-size: 21px;
+    position:relative;
+    left: 870px;
+    top: -905px;
+    width: 210px;
+    
+}
+
+.aud{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    position: relative;
+    top: 30px;
+    
+    width: 1300px;
+}
+
+.ha{
+   
+    width: 1200px;
+
+    
+}
+
+.stand{
+    height: 55px;
+    position: relative;
+    left: 530px;
+    top: 15px;
+}
+
+.audio{
+    width: 25%;
+    height: 12%;
+    position: relative;
+    top: 100px;
+    text-align: center;
+    left: 227px;
+}
+
+.au{
+    background-image: linear-gradient(90deg,rgb(248, 136, 8),rgb(38, 207, 55));
+    position:relative;
+
+    height: 370px;
+    border-radius: 10px;
+    box-shadow: 0px 1px 5px 1px black;
+}
+
+form{
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.541);
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto ;
+    border: 1px solid rgb(90, 87, 87);
+    padding-bottom: 32px;
+    position: relative;
+    
+    height: 550px;
+    box-shadow: 0px 1px 5px 0px black;
+}
+
+#form-heading{
+     font-size: 32px;
+     padding-top: 56px;
+     padding-bottom: 32px;
+     position: relative;
+     top: -20px;
+}
+
+
+
+#input-wrapper{
+    padding-top: 80px;
+    padding-bottom: 40px;
+    padding-left: 80px;
+    padding-right: 80px;
+    position: relative;
+    top: -100px;
+}
+
+.input-box{
+    font-size:18px ;
+    padding-bottom: 12px;
+    margin-bottom: 36px;
+    border: 0;
+    border-bottom: 1px solid #ccc;
+    width: 100%;
+    
+}
+
+.sbtn{
+    background-color: #0056ff ;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+    padding-right: 24px;
+    font-size: 18px;
+    text-align: center;
+    color: white;
+    border: none;
+    position: relative;
+    
+
+}
+
+.ft{
+    font-size: 60px;
+    position: relative;
+    top: 20px;
+    color: #212122;
+}
+
+.fl{
+    width: 55%;
+    position: relative;
+    top: -30px;
+}
+
+.follow{
+    position: relative;
+    
+}
+
+.reg{
+    font-size: 25px;
+    position: relative;
+    
+}
+
+
+.hr1{
+    width: 20%;
+    position: relative;
+    top: -80px;
+    left: -290px;
+}
+
+.hr2{
+    width: 20%;
+    position: relative;
+    top: -90px;
+    left: 290px;
+}
+
+.dyn{
+    height: 400px;
+}
+
+.social-icon  {
+     width: 50px;
+     height: 50px;
+     padding-top: 16px;
+     padding-bottom: 16px;
+     padding-left: 32px;
+     padding-right: 32px;
+    }
+
+   #social-wrapper{
+    text-align: center;
+    position: relative;
+    top: -50px;
+    left: -10px;
+   }
+        
+        
+        
+
+.reg :hover{
+    color: black;
+}
+
+
+
